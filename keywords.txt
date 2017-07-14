@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map Strain
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Strain	KEYWORD1	Strain
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+attach	KEYWORD2
+read	KEYWORD2
+nextSample	KEYWORD2 
+calibrate	KEYWORD2
+mean	KEYWORD2
+variance	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
