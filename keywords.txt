@@ -6,7 +6,7 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-Strain	KEYWORD1	Strain
+Strain	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
